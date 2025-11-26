@@ -1,6 +1,6 @@
 #  My First HTML Website
 
-This project marks my first step into frontend development. As a data scientist, I’m used to working with Python, building models, and exploring data — but I wanted to try something new. So I decided to challenge myself by creating a simple website using HTML.
+This project marks my first step into frontend development. As a data scientist, I’m used to working with Python, building models, and exploring data, but I wanted to try something new. So I decided to challenge myself by creating a simple website using HTML.
 
 ##  Why I Started
 I’ve always been curious about how websites are built from scratch. With a strong foundation in Python, I wanted to expand my skill set and understand the basics of web development before moving on to frameworks like React. This project is my starting point.
